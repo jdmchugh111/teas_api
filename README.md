@@ -13,8 +13,8 @@ This is the repository for the tea subscription Mod 4 take home challenge. Below
 - (fork) and clone this repo
 - run `bundle install`
 - run `rails db:{drop,create,migrate,seed}`
-- to use endpoints in development enivronment (through Postman or some other tool), run `rails s` and use `http://localhost:3000` as your base url
 - for the test suite, run `bundle exec rspec`
+- to use endpoints in development enivronment (through Postman or some other tool), run `rails s` and use `http://localhost:3000` as your base url
 
 ## API Endpoints
 
