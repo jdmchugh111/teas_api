@@ -2,7 +2,7 @@
 
 ## Intro
 
-This is the repository for the tea subscription Mod 4 take home challenge. Below is the documentation for the endpoints and setup.
+This is the repository for the tea subscription Mod 4 take home challenge. Below is the documentation for the setup and API endpoints.
 
 ## Database Schema
 <img width="885" alt="Screenshot 2024-08-19 at 12 13 03 AM" src="https://github.com/user-attachments/assets/87f7a62c-a856-44ac-87ab-1de521c566d2">
