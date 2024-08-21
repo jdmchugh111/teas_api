@@ -61,7 +61,7 @@ http://localhost:3000/api/v1/subscriptions?customer=paulina@example.com&subscrip
     }
 }
 ```
-### DELETE /api/v1/subscriptions/2?subscription=Green Tea Monthly
+### DELETE /api/v1/subscriptions/2?subscription={subscription title}
 
 Cancels a subscription - the record of the subscription will still exist but the customer_subscription record will reflect that it has changed from "active" to "cancelled"
 <br><br>
@@ -104,7 +104,7 @@ http://localhost:3000/api/v1/subscriptions/2?subscription=Green Tea Monthly
     }
 }
 ```
-### GET /api/v1/subscriptions?customer=raymond@example.com
+### GET /api/v1/subscriptions?customer={customer email}
 
 Returns all subscriptions (active and cancelled) linked with a customer's account
 <br><br>
